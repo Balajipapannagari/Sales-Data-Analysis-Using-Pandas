@@ -1,0 +1,7 @@
+OrderID,Date,Product,Region,Quantity,Price
+101,2024-01-05,Laptop,South,2,50000
+102,2024-01-10,Phone,North,5,20000
+103,2024-02-12,Tablet,East,3,15000
+104,2024-02-18,Laptop,West,1,50000
+105,2024-03-05,Phone,South,4,20000
+106,2024-03-20,Tablet,North,2,15000
